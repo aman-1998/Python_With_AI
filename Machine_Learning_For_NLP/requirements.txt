@@ -1,0 +1,16 @@
+# To install the required packages, run:
+# pip install -r requirements.txt
+
+# If you want to install a package individually, run:
+# pip install package_name
+
+# Required packages for the project
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
